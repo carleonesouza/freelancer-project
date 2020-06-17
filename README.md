@@ -1,2 +1,2 @@
 # project-to-freelancer
-Web Project for lawyer office
+Web Project for lawyer office in SPA
